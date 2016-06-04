@@ -1,0 +1,11 @@
+APPINFO_JSON = {u'sdkVersion': u'3', u'uuid': u'b3578af5-8a89-4a1d-9437-060a0b481c9e', u'appKeys': {u'AppKeyReady': 0, u'AppKeyUrl': 2}, u'companyName': u'Andrea Cerra', u'enableMultiJS': True, u'versionLabel': u'1.0', u'targetPlatforms': [u'aplite', u'basalt', u'chalk'], u'longName': u'PebbleHttp List', u'shortName': u'PebbleHttp List', u'watchapp': {u'watchface': False}, u'resources': {u'media': []}}
+BINDIR = '/usr/local/bin'
+DEFINES = ['RELEASE']
+LIBDIR = '/usr/local/lib'
+PBW_NAME = 'Pebble.pbw'
+PEBBLE_SDK_COMMON = '/Users/Andrea/Library/Application Support/Pebble SDK/SDKs/current/sdk-core/pebble/common'
+PEBBLE_SDK_ROOT = '/Users/Andrea/Library/Application Support/Pebble SDK/SDKs/current/sdk-core/pebble'
+PREFIX = '/usr/local'
+RESOURCES_JSON = []
+TARGET_PLATFORMS = ['chalk', 'basalt', 'aplite']
+TIMESTAMP = 1465050134

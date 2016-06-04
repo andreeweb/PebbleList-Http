@@ -1,0 +1,5 @@
+platform :ios, '8.0'
+
+target 'PebbleList Http' do
+	pod 'PebbleKit'
+end

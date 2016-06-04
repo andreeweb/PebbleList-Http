@@ -1,0 +1,20 @@
+{
+  "uuid": "b3578af5-8a89-4a1d-9437-060a0b481c9e",
+  "shortName": "PebbleHttp List",
+  "longName": "PebbleHttp List",
+  "companyName": "Andrea Cerra",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "AppKeyReady" : 0,
+    "AppKeyUrl"   : 2
+  },
+  "resources": {
+    "media": []
+  }
+}

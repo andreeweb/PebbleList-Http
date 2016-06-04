@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PebbleHttp List</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_update">Update Pebble data</string>
+    <string name="action_push">Send push on Pebble</string>
+    <string name="action_open_app">Open app on Pebble</string>
+
+    <string name="author">Andrea Cerra</string>
+    <string name="email">andrea.cerra@me.com</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+
+    <string name="title_activity_add_url">AddUrlActivity</string>
+    <string name="insert_name">Insert Name</string>
+    <string name="insert_url">Insert Url</string>
+    <string name="save">Save</string>
+
+    <string name="empty">Press on + button for add values</string>
+    <string name="description">When connection is ready tap on refresh button on top left corner for load the list into Pebble</string>
+    <string name="conn_status">Connection status:</string>
+    <string name="status_ready">Ready</string>
+    <string name="status_not">Not connected</string>
+    <string name="status_in_pro">In progress...</string>
+
+    <string name="about_text">PebbleList HTTP \n By Andrea Cerra \n\n\n https://github.com/andreeweb/PebbleList-Http</string>
+
+</resources>
